@@ -58,7 +58,7 @@
 
 ![Prathmesh's github stats](https://github-readme-stats.vercel.app/api?username=victorSA99&theme=react&show_icons=true&line_height=30)
 
-![Prathmesh's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=victorSA99&theme=react&layout=compact&langs_count=10)
+<!--![Prathmesh's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=victorSA99&theme=react&layout=compact&langs_count=10)-->
 
 ---
 
