@@ -34,6 +34,7 @@
   ![JQuery](https://img.shields.io/badge/-JQuery-333333?style=flat&logo=jquery)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Angular](https://img.shields.io/badge/-angular-333333?style=flat&logo=angular)
 
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
@@ -44,9 +45,10 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 📱 &nbsp;
   ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
-  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
   ![ReactNative](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+  ![ReactNative](https://img.shields.io/badge/-ionic-333333?style=flat&logo=ionic)
 
+  
   
 
 <br/>
