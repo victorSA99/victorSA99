@@ -15,7 +15,7 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathmesh16&label=Profile%20views&color=0e75b6&style=flat" alt="prathmesh" /> </p>
 
-[![LinkedIn]([www.linkedin.com/in/victorsandovalamaral](https://linkedin.com/in/víctor-manuel-sandoval-amaral-7426b824b))
+[![LinkedIn](www.linkedin.com/in/victorsandovalamaral](https://linkedin.com/in/víctor-manuel-sandoval-amaral-7426b824b))]
 [![Gmail Badge](https://img.shields.io/badge/-prajadhav1243@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prajadhav1243@gmail.com)](mailto:distraido.99@hotmail.com)
 
 
