@@ -53,12 +53,11 @@
 
 ## 📈 Stats
 
-![Prathmesh's github stats](https://github-readme-stats.vercel.app/api?username=prathmesh16&hide=["issues"]&show_icons=true&line_height=30)
+![Prathmesh's github stats](https://github-readme-stats.vercel.app/api?username=victorSA99&hide=["issues"]&show_icons=true&line_height=30)
 
-![Prathmesh's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=prathmesh16&theme=buefy&layout=compact&langs_count=10)
+![Prathmesh's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=victorSA99&theme=buefy&layout=compact&langs_count=10)
 
-----
-Credit: [Prathmesh Jadhav](https://github.com/prathmesh16)
+---
 
 Last Edited on: 16/01/2024
 
