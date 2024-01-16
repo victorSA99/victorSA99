@@ -8,8 +8,8 @@
 ## 👨🏻‍💻 &nbsp;About Me 
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studied Computer Engineering at PICT Pune.
-- 💼 &nbsp; Learning about Native Application Development(Flutter and React Native).
+- 🎓 &nbsp; Studied Computer Engineering .
+- 💼 &nbsp; Learning about Native Application Development(React Native).
 - 👨🏻‍💻 &nbsp; Freelancer 
 
 <br>
